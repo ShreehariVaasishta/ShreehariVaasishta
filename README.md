@@ -10,12 +10,12 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Django</span><br><br><br>
-        <img height="64px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://www.python.org/static/community_logos/python-logo-generic.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span>𝗗𝗷𝗮𝗻𝗴𝗼</span><br><br><br>
+        <img height="64px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
