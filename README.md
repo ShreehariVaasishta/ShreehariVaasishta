@@ -1,6 +1,6 @@
 <a target="_blank" href="https://shunjid.github.io"><img width="250" align="right" src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
 
-# Shunjid Rahman Showrov
+# Shreehari Vaasistha L
 
 [![Gmail](https://img.shields.io/badge/gmail-%23B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:shreehari9481@gmail.com?subject=From%20GitHub&cc=shreehari9481@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
