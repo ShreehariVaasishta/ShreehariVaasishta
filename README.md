@@ -1,5 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 
-<img src="https://img.shields.io/badge/facebook-Fo%20me-%231877F2.svg?&style=for-the-badge&logo=facebook"/>
+# 𝗛𝗲𝗹𝗹𝗼! Myself Shreehari Vaasistha L
 
 :computer: . 
 
@@ -13,8 +12,8 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span>Django</span><br><br><br>
+        <img height="64px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
