@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hary86389970)
 [![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreehari-vaasistha-l/)
 
-:wave: Hi there, My name is Shreehari. I'm 19 years old, self-taught, software engineering and currently studing BCA. I love to work with new technologies and playing with data-structures & algorithms.
+:wave: Hi there, My name is Shreehari. I'm 19 years old, self-taught software engineer and currently studing BCA. I love working with new technologies and playing with data-structures & algorithms.
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
@@ -32,38 +32,38 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span>𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>      
+      <td width="25%" align="center">
+        <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>𝗔𝗪𝗦 𝗘𝗖𝟮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws-ec2.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+        <span>𝗔𝗪𝗦 𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws-s3.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+        <span>𝗔𝗪𝗦 𝗦𝗘𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws-ses.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
+        <span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+      </td>      
       <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+        <span>𝗗𝗼𝗰𝗸𝗲𝗿</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
     </tr>
   </tbody>
@@ -71,7 +71,7 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+![visitors](http://visitor-badge.glitch.me/badge?page_id=ShreehariVaasishta)
 
 ---
-⭐️ From [xiaoluoboding](https://github.com/xiaoluoboding)
+⚠️ Inspired from other Respositories on Github
