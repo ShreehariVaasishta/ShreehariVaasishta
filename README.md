@@ -1,9 +1,13 @@
-# 𝗛𝗲𝗹𝗹𝗼! Myself Shreehari Vaasistha L :computer: . 
+<a target="_blank" href="https://shunjid.github.io"><img width="250" align="right" src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅. 
+# Shunjid Rahman Showrov
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/xiaoluoboding/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
+[![Gmail](https://img.shields.io/badge/gmail-%23B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:shreehari9481@gmail.com?subject=From%20GitHub&cc=shreehari9481@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hary86389970)
+[![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreehari-vaasistha-l/)
 
+:wave: Hi there, My name is Shreehari. I'm 19 years old, self-taught, software engineering and currently studing BCA. I love to work with new technologies and playing with data-structures & algorithms.
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
@@ -15,25 +19,25 @@
       </td>
       <td width="25%" align="center">
         <span>𝗗𝗷𝗮𝗻𝗴𝗼</span><br><br><br>
-        <img height="64px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <span>𝗥𝗲𝗮𝗰𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <span>𝗛𝗧𝗠𝗟</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
