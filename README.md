@@ -18,8 +18,8 @@
         <img height="64px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝘂𝗲</span><br><br><br>
