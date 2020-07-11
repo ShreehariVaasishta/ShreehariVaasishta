@@ -1,5 +1,5 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 
-<img src="https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook"/>
+<img src="https://img.shields.io/badge/facebook-Fo%20me-%231877F2.svg?&style=for-the-badge&logo=facebook"/>
 
 :computer: . 
 
