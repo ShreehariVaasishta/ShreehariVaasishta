@@ -1,4 +1,4 @@
-<a target="_blank" href="https://shreeharivaasishta.github.io/shreehari.github.io/"><img width="250" align="right" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47f06772c55d59ce5b52906bffd7aa172bc4c8a723&rid=giphy.gif"></a>
+<a target="_blank" href="https://shreeharivaasishta.github.io/hari.github.io/"><img width="250" align="right" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47f06772c55d59ce5b52906bffd7aa172bc4c8a723&rid=giphy.gif"></a>
 
 # Shreehari Vaasistha L
 <h4>Portfolio Site - https://shreeharivaasishta.github.io/hari.github.io/</h4>
