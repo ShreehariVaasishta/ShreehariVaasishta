@@ -70,10 +70,7 @@
   </tbody>
 </table>
 
-![Shreehari's github stats](https://github-readme-stats.vercel.app/api?username=ShreehariVaasishta&hide=["issues"]&show_icons=true&bg_color=black)
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-![visitors](http://visitor-badge.glitch.me/badge?page_id=ShreehariVaasishta)
+![ShreehariVaasishta's github stats](https://github-readme-stats.vercel.app/api?username=ShreehariVaasishta&hide=["issues"]&show_icons=true&bg_color=black)
 
 ---
 ⚠️ Inspired from other Respositories on Github
