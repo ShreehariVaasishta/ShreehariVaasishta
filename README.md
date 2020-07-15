@@ -70,8 +70,9 @@
   </tbody>
 </table>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+![Shreehari's github stats](https://github-readme-stats.vercel.app/api?username=ShreehariVaasishta&hide=["issues"]&show_icons=true)
 
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 ![visitors](http://visitor-badge.glitch.me/badge?page_id=ShreehariVaasishta)
 
 ---
