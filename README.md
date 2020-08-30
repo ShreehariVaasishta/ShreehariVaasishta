@@ -72,5 +72,7 @@
 
 ![ShreehariVaasishta's github stats](https://github-readme-stats.vercel.app/api?username=ShreehariVaasishta&hide=["issues"]&show_icons=true&bg_color=black)
 
+<p align="left"><img width="125" src="https://komarev.com/ghpvc/?username=ShreehariVaasishta&style=flat-square" alt="ShreehariVaasishta"></p>
+
 ---
 ⚠️ Inspired from other Respositories on Github
