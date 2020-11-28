@@ -69,6 +69,16 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗡𝗚𝗜𝗡𝗫</span><br><br><br>
+        <img height="64px" src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝘂𝗻𝗶𝗰𝗼𝗿𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg">
+      </td>      
+    </tr>    
   </tbody>
 </table>
 
