@@ -8,7 +8,9 @@
 [![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hary86389970)
 [![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreehari-vaasistha-l/)
 
-:wave: Hi there, My name is Shreehari. I'm 19 years old, self-taught software engineer and currently studing BCA. I love working with new technologies and playing with data-structures & algorithms.
+<a href="https://stackoverflow.com/users/11481441/shreehari-vaasistha-l"><img src="https://stackoverflow.com/users/flair/11481441.png?theme=dark" width="208" height="58" alt="profile for Shreehari Vaasistha L at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shreehari Vaasistha L at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+:wave: Hi there, Myself Shreehari. I'm 20 years old, self-taught software engineer and currently studing BCA. I love working with new technologies and playing with data-structures & algorithms.
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
