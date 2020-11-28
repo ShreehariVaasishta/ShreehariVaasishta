@@ -29,15 +29,11 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗥𝗲𝗮𝗰𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
         <span>𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>      
+      </td>        
+    </tr>
+    <tr valign="top">    
       <td width="25%" align="center">
         <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
@@ -50,6 +46,10 @@
         <span>𝗔𝗪𝗦 𝗘𝗖𝟮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws-ec2.svg">
       </td>
+      <td width="25%" align="center">
+        <span>𝗗𝗼𝗰𝗸𝗲𝗿</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>      
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -63,17 +63,13 @@
       <td width="25%" align="center">
         <span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
-      </td>      
-      <td width="25%" align="center">
-        <span>𝗗𝗼𝗰𝗸𝗲𝗿</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>𝗡𝗚𝗜𝗡𝗫</span><br><br><br>
         <img height="64px" src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png">
-      </td>
+      </td>      
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span>𝗚𝘂𝗻𝗶𝗰𝗼𝗿𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg">
