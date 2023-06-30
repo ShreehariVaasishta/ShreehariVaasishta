@@ -6,8 +6,10 @@ Throughout my career, I have built systems, services, and platforms from scratch
 
 **Tech Stacks:** Python, Django, Django Rest Framework, Celery, Redis, MySQL, Docker, Kubernetes, Nginx, Bash Script.
 
-<a href="https://stackoverflow.com/users/11481441/shreehari-vaasistha-l"><img src="https://stackoverflow.com/users/flair/11481441.png?theme=dark" width="208" height="58" alt="profile for Shreehari Vaasistha L at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shreehari Vaasistha L at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreehariVaasishta&theme=dark&hide_border=true)
+
+
+<a href="https://stackoverflow.com/users/11481441/shreehari-vaasistha-l"><img src="https://stackoverflow.com/users/flair/11481441.png?theme=dark" width="208" height="58" alt="profile for Shreehari Vaasistha L at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shreehari Vaasistha L at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 [![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreehari-vaasistha-l/)
