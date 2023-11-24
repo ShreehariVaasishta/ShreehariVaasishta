@@ -7,9 +7,11 @@ Throughout my career, I have built systems, services, and platforms from scratch
 **Tech Stacks:** Python, Django, Django Rest Framework, Celery, Redis, MySQL, Docker, Kubernetes, Nginx, Bash Script.
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShreehariVaasishta&theme=dark&hide_border=true)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreehariVaasishta&theme=dark&hide_border=true) -->
 
+[![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreehari-vaasistha-l/)&ensp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shreehari9481)&ensp;
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://shreehari.hashnode.dev/)
 
 <a href="https://stackoverflow.com/users/11481441/shreehari-vaasistha-l"><img src="https://stackoverflow.com/users/flair/11481441.png?theme=dark" width="208" height="58" alt="profile for Shreehari Vaasistha L at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shreehari Vaasistha L at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-[![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreehari-vaasistha-l/)
