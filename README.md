@@ -2,7 +2,7 @@
 :wave: Hi, I am Shreehari, a Software Developer, who keeps tinkering with different technologies.Im passionate about building OSS projects, systems that scale and create some impact.
 I do play around with different linux distributions like _Ubuntu, MxLinux, Fedora, ArcLinux etc..._
 
-Throughout my career, I have built systems, services, and platforms from scratch and scaling them. 
+Throughout my career, I have built systems, services, and platforms from scratch and scaled them. 
 
 **Tech Stacks:** Python, Django, Django Rest Framework, Celery, Redis, MySQL, Docker, Kubernetes, Nginx, Bash Script.
 
